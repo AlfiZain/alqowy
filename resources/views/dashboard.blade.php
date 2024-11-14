@@ -193,7 +193,7 @@
                     <div class="px-3 mt-2 flex gap-4">
                         @forelse($courses as $course)
                             <div class="course-card w-1/3">
-                                @include('components.front.course-card');
+                                @include('components.front.course-card')
                             </div>
                         @empty
                             <p>
