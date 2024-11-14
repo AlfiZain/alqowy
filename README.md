@@ -25,6 +25,7 @@ Special thanks to **BuildWithAngga (BWA)** and **Web Programming UNPAS (WPU)** f
 ![alqowy test_pricing](https://github.com/user-attachments/assets/116e0347-4d75-4bf5-8aca-f9e7f25d2ec4)
 ![alqowy test_checkout](https://github.com/user-attachments/assets/c6d0c3a5-6c56-4f72-b1ec-a0f654ed120a)
 ![alqowy test_dashboard](https://github.com/user-attachments/assets/3a2ff5c5-ec50-4c9f-a3b1-e07e3ff3418b)
+![alqowy test_details_basic-php](https://github.com/user-attachments/assets/5f372d96-c18a-4a11-8513-b05ecb73cda2)
 ![alqowy test_dashboard (1)](https://github.com/user-attachments/assets/1afc352b-eaea-4a3f-8c21-e79e33a26f9d)
 ![alqowy test_admin_subscribe_transactions](https://github.com/user-attachments/assets/f019e7de-63a4-404b-be50-b68d2b6358bc)
 ![alqowy test_admin_categories](https://github.com/user-attachments/assets/c4535097-a61f-4e5a-b334-c44f6e9932f3)
