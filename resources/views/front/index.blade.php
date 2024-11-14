@@ -105,7 +105,7 @@
             <div id="course-slider" class="w-full">
                 @forelse($courses as $course)
                     <div class="course-card w-full md:w-1/3 px-3 pb-[70px] mt-[2px]">
-                        @include('components.front.course-card');
+                        @include('components.front.course-card')
                     </div>
                 @empty
                     <p>
